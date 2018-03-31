@@ -1,23 +1,23 @@
 {
 "where":[{
 	"GPS" : {"x": 24.968508, "y": 121.195606}
-	"picture" : "C:\Users\XXXXXXXXXXXXXXX",
-  	"sound": "C:\Users\XXXXXXXXXXXXXXX",
+	"picture" : "file:///C:/Users/xps13/Desktop/123/picture0.jpg",
+  	"sound": "\sound0.mp3",
  	"content": "It's a picture of a dick"
 },{
 	"GPS" : {"x": 24.954009, "y": 121.225971}
-	"picture" : "C:\Users\XXXXXXXXXXXXXXX",
-  	"sound": "C:\Users\XXXXXXXXXXXXXXX",
+	"picture" : "file:///C:/Users/xps13/Desktop/123/picture1.jpg",
+  	"sound": "\sound1.mp3",
   	"content": "YANJ don't have a dick"
 },{
 	"GPS" : {"x": 25.047749, "y": 121.517044}
-	"picture" : "C:\Users\XXXXXXXXXXXXXXX",
- 	"sound": "C:\Users\XXXXXXXXXXXXXXX",
+	"picture" : "file:///C:/Users/xps13/Desktop/123/picture2.jpg",
+ 	"sound": "\sound2.mp3",
   	"content": "LOLI SAI GO"
 },{
 	"GPS" : {"x": 25.042068, "y": 121.532580}
-	"picture" : "C:\Users\XXXXXXXXXXXXXXX",
- 	"sound": "C:\Users\XXXXXXXXXXXXXXX"
+	"picture" : "file:///C:/Users/xps13/Desktop/123/picture3.jpg",
+ 	"sound": "\sound3.mp3"
  	"content": "I don't know what to type"
 }
 ]}
